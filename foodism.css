@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: 'BrownBulgary';
-  src: url('BrownBulgary') format('truetype');
+  src: url('brownbulgary.ttf') format('truetype');
 }
 
 .h1 {
