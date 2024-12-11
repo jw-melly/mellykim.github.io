@@ -1,18 +1,18 @@
 @font-face {
-  font-family: 'Pixelmania';
-  src: url('pixelmania/Pixelmania.ttf') format('truetype');
+  font-family: 'pixelmania';
+  src: url('pixelmania/pixelmania.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'BrownBulgary';
-  src: url('font/BrownBulgary') format('truetype');
+  src: url('BrownBulgary') format('truetype');
 }
 
 .h1 {
   margin-top: 40px;
   font-size: 50px;
   text-align: center;
-  font-family: 'Pixelmania';
+  font-family: 'pixelmania';
 }
 
 .marquee-container {
